@@ -1,6 +1,6 @@
 .env.local
 .env
-functions/node_modules
+#functions/node_modules
 
 # Local Netlify folder
 .netlify
