@@ -8,7 +8,7 @@ const global = {
     totalResults: 0,
   },
   api: {
-    apiUrl: '/api/',
+    apiUrl: '/api/', //see netlify.toml
   },
 }
 
